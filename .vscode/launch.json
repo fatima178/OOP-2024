@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cat",
+            "request": "launch",
+            "mainClass": "Cat",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "ie.tudublin.Main",
