@@ -1,3 +1,5 @@
+package ie.tudublin;
+
 public class Cat{
     private int numLives;
 

@@ -4,6 +4,13 @@
             "type": "java",
             "name": "Cat",
             "request": "launch",
+            "mainClass": "ie.tudublin.Cat",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Cat",
+            "request": "launch",
             "mainClass": "Cat",
             "projectName": ""
         },
